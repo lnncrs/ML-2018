@@ -1,3 +1,5 @@
 # UFABC ML 2018
 
-This repository was created for 1Q/2018 "Machine Learning" class on UFABC (Federal University of ABC - BR).
+Repository for 1Q/2018 "Machine Learning" activities submissions on UFABC (Federal University of ABC - BR)
+
+**The activities 4th and 8th are partially complete, the 6th was skipped**
