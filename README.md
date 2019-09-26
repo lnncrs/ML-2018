@@ -1,5 +1,5 @@
-# UFABC ML 2018
+# Machine Learning Submissions
 
-Repository for 1Q/2018 "Machine Learning" activities submissions on UFABC (Federal University of ABC - BR)
+UFABC 1Q/2018 - Machine Learning Class
 
 **The activities 4th and 8th are partially complete, the 6th was skipped**
